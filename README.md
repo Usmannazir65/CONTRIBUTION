@@ -31,12 +31,12 @@ To become a strong Web3 contributor through consistent learning, building, and d
 
 ---
 
-##  Structure of this repo
-- `projects/` 
-- `daily-logs/` 
-- `learnings/` 
-- `achievements.md` 
+## 📅 Structure of this repo
+- `projects/` → Each project updates
+- `daily-logs/` → Daily progress notes
+- `learnings/` → Things I learn
+- `achievements.md` → Milestones
 
 ---
 
-Stay consistent. Build in public. 🚀
+
